@@ -12,7 +12,7 @@ My name is ***Ronald Gulayan***, just an ordinary person, and my dream is to bec
 ## Current Status:
 
 - 💼 Learning **Reactjs and Nodejs.**
-- 🔍 I’m looking for connections in Web Development.
+- 🔍 I’m looking for connections in Web Development or Software development.
 - 👀 See my [Personal Portfolio](https://ronaldgulayan.github.io/app/) to get more info
 
 ## Tools I work upon : 🛠
