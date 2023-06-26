@@ -7,7 +7,7 @@ My name is ***Ronald Gulayan***, just an ordinary person, and my dream is to bec
 [![](https://img.shields.io/badge/Gmail-ronaldgulayan00@gmail.com-red)](mailto:ronaldgulayan00@gmail.com)
 [![](https://img.shields.io/badge/Facebook-RonaldGulayan-blue)](https://www.facebook.com/ronald.gulayan)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BF709&background=000000D2&center=true&vCenter=true&width=435&lines=I'm+Ronald+Gulayan%2C+20+years+old.;Future+Software+dev+or+Web+dev.;I+love+coding+and+playing+ol+games.)]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2BF709&background=000000D2&center=true&vCenter=true&width=435&lines=I'm+Ronald+Gulayan%2C+20+years+old.;Future+Software+dev+or+Web+dev.;I+love+coding+and+playing+ol+games.)](https://www.facebook.com/ronald.gulayan/)
 
 ## Current Status:
 
