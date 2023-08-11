@@ -1,7 +1,7 @@
 
 # Hey, Nice to see you. 👋
 
-My name is ***Ronald Gulayan***, just an ordinary person, and my dream is to become a software developer or web developer. I always enjoy creating something on my own and challenging myself in various things.
+My name is ***Ronald Gulayan***, just an ordinary person, and my dream is to become an app developer or web developer. I always enjoy creating something on my own and challenging myself in various things.
 
 ## How to reach me: 
 [![](https://img.shields.io/badge/Gmail-ronaldgulayan00@gmail.com-red)](mailto:ronaldgulayan00@gmail.com)
