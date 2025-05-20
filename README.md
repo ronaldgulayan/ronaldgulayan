@@ -11,7 +11,6 @@ My name is ***Ronald Gulayan***, a passionate and aspiring app and web developer
 
 ## Current Status:
 
-- 💼 Learning **Reactjs and Nodejs.**
 - 🔍 I’m looking for connections in Web Development or Software development.
 - 👀 See my [Personal Portfolio](https://ronaldgulayan.github.io/portfolio/) to get more info
 
@@ -27,4 +26,4 @@ My name is ***Ronald Gulayan***, a passionate and aspiring app and web developer
 -----
 Credits: [Ronald Gulayan](https://www.facebook.com/ronald.gulayan)
 
-Last Edited on: 09/24/2024
+Last Edited on: 05/20/2025
